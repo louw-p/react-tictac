@@ -1,8 +1,8 @@
 // import { useState } from 'react';
-import { Player, SquareValue } from './useGameState';
+import { Players, SquareValue } from './useGameState';
 
 
-export function useSaveGame(history: SquareValue[][], players: Player[] | null) {
+export function useSaveGame(history: SquareValue[][], players: Players | null) {
     const requestOptions = {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
