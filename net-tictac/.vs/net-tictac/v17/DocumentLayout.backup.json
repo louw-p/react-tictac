@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LouwPretorius\\OneDrive - MONOCLE SOLUTIONS (PTY) LTD\\Documents\\Training\\Sandbox\\react-tictac\\net-tictac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E723A31-AD91-4DDF-86AB-0D27608E8339}|net-tictac\\net-tictac.csproj|c:\\users\\louwpretorius\\onedrive - monocle solutions (pty) ltd\\documents\\training\\sandbox\\react-tictac\\net-tictac\\net-tictac\\repository\\gamedatarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E723A31-AD91-4DDF-86AB-0D27608E8339}|net-tictac\\net-tictac.csproj|solutionrelative:net-tictac\\repository\\gamedatarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E723A31-AD91-4DDF-86AB-0D27608E8339}|net-tictac\\net-tictac.csproj|c:\\users\\louwpretorius\\onedrive - monocle solutions (pty) ltd\\documents\\training\\sandbox\\react-tictac\\net-tictac\\net-tictac\\controllers\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E723A31-AD91-4DDF-86AB-0D27608E8339}|net-tictac\\net-tictac.csproj|solutionrelative:net-tictac\\controllers\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E723A31-AD91-4DDF-86AB-0D27608E8339}|net-tictac\\net-tictac.csproj|c:\\users\\louwpretorius\\onedrive - monocle solutions (pty) ltd\\documents\\training\\sandbox\\react-tictac\\net-tictac\\net-tictac\\net-tictac.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E723A31-AD91-4DDF-86AB-0D27608E8339}|net-tictac\\net-tictac.csproj|solutionrelative:net-tictac\\net-tictac.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E723A31-AD91-4DDF-86AB-0D27608E8339}|net-tictac\\net-tictac.csproj|c:\\users\\louwpretorius\\onedrive - monocle solutions (pty) ltd\\documents\\training\\sandbox\\react-tictac\\net-tictac\\net-tictac\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E723A31-AD91-4DDF-86AB-0D27608E8339}|net-tictac\\net-tictac.csproj|solutionrelative:net-tictac\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E723A31-AD91-4DDF-86AB-0D27608E8339}|net-tictac\\net-tictac.csproj|c:\\users\\louwpretorius\\onedrive - monocle solutions (pty) ltd\\documents\\training\\sandbox\\react-tictac\\net-tictac\\net-tictac\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E723A31-AD91-4DDF-86AB-0D27608E8339}|net-tictac\\net-tictac.csproj|solutionrelative:net-tictac\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E723A31-AD91-4DDF-86AB-0D27608E8339}|net-tictac\\net-tictac.csproj|c:\\users\\louwpretorius\\onedrive - monocle solutions (pty) ltd\\documents\\training\\sandbox\\react-tictac\\net-tictac\\net-tictac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E723A31-AD91-4DDF-86AB-0D27608E8339}|net-tictac\\net-tictac.csproj|solutionrelative:net-tictac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E723A31-AD91-4DDF-86AB-0D27608E8339}|net-tictac\\net-tictac.csproj|c:\\users\\louwpretorius\\onedrive - monocle solutions (pty) ltd\\documents\\training\\sandbox\\react-tictac\\net-tictac\\net-tictac\\net-tictac.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0E723A31-AD91-4DDF-86AB-0D27608E8339}|net-tictac\\net-tictac.csproj|solutionrelative:net-tictac\\net-tictac.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E723A31-AD91-4DDF-86AB-0D27608E8339}|net-tictac\\net-tictac.csproj|c:\\users\\louwpretorius\\onedrive - monocle solutions (pty) ltd\\documents\\training\\sandbox\\react-tictac\\net-tictac\\net-tictac\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E723A31-AD91-4DDF-86AB-0D27608E8339}|net-tictac\\net-tictac.csproj|solutionrelative:net-tictac\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameDataRepo.cs",
+              "DocumentMoniker": "C:\\Users\\LouwPretorius\\OneDrive - MONOCLE SOLUTIONS (PTY) LTD\\Documents\\Training\\Sandbox\\react-tictac\\net-tictac\\net-tictac\\Repository\\GameDataRepo.cs",
+              "RelativeDocumentMoniker": "net-tictac\\Repository\\GameDataRepo.cs",
+              "ToolTip": "C:\\Users\\LouwPretorius\\OneDrive - MONOCLE SOLUTIONS (PTY) LTD\\Documents\\Training\\Sandbox\\react-tictac\\net-tictac\\net-tictac\\Repository\\GameDataRepo.cs",
+              "RelativeToolTip": "net-tictac\\Repository\\GameDataRepo.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:53:03.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "net-tictac",
+              "DocumentMoniker": "C:\\Users\\LouwPretorius\\OneDrive - MONOCLE SOLUTIONS (PTY) LTD\\Documents\\Training\\Sandbox\\react-tictac\\net-tictac\\net-tictac\\net-tictac.csproj",
+              "RelativeDocumentMoniker": "net-tictac\\net-tictac.csproj",
+              "ToolTip": "C:\\Users\\LouwPretorius\\OneDrive - MONOCLE SOLUTIONS (PTY) LTD\\Documents\\Training\\Sandbox\\react-tictac\\net-tictac\\net-tictac\\net-tictac.csproj",
+              "RelativeToolTip": "net-tictac\\net-tictac.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T15:52:08.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "C:\\Users\\LouwPretorius\\OneDrive - MONOCLE SOLUTIONS (PTY) LTD\\Documents\\Training\\Sandbox\\react-tictac\\net-tictac\\net-tictac\\Controllers\\GameData.cs",
+              "RelativeDocumentMoniker": "net-tictac\\Controllers\\GameData.cs",
+              "ToolTip": "C:\\Users\\LouwPretorius\\OneDrive - MONOCLE SOLUTIONS (PTY) LTD\\Documents\\Training\\Sandbox\\react-tictac\\net-tictac\\net-tictac\\Controllers\\GameData.cs",
+              "RelativeToolTip": "net-tictac\\Controllers\\GameData.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:25:26.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\LouwPretorius\\OneDrive - MONOCLE SOLUTIONS (PTY) LTD\\Documents\\Training\\Sandbox\\react-tictac\\net-tictac\\net-tictac\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "net-tictac\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\LouwPretorius\\OneDrive - MONOCLE SOLUTIONS (PTY) LTD\\Documents\\Training\\Sandbox\\react-tictac\\net-tictac\\net-tictac\\WeatherForecast.cs",
+              "RelativeToolTip": "net-tictac\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:24:35.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "net-tictac.http",
+              "DocumentMoniker": "C:\\Users\\LouwPretorius\\OneDrive - MONOCLE SOLUTIONS (PTY) LTD\\Documents\\Training\\Sandbox\\react-tictac\\net-tictac\\net-tictac\\net-tictac.http",
+              "RelativeDocumentMoniker": "net-tictac\\net-tictac.http",
+              "ToolTip": "C:\\Users\\LouwPretorius\\OneDrive - MONOCLE SOLUTIONS (PTY) LTD\\Documents\\Training\\Sandbox\\react-tictac\\net-tictac\\net-tictac\\net-tictac.http",
+              "RelativeToolTip": "net-tictac\\net-tictac.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-05T15:23:20.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LouwPretorius\\OneDrive - MONOCLE SOLUTIONS (PTY) LTD\\Documents\\Training\\Sandbox\\react-tictac\\net-tictac\\net-tictac\\appsettings.json",
+              "RelativeDocumentMoniker": "net-tictac\\appsettings.json",
+              "ToolTip": "C:\\Users\\LouwPretorius\\OneDrive - MONOCLE SOLUTIONS (PTY) LTD\\Documents\\Training\\Sandbox\\react-tictac\\net-tictac\\net-tictac\\appsettings.json",
+              "RelativeToolTip": "net-tictac\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T15:07:39.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\LouwPretorius\\OneDrive - MONOCLE SOLUTIONS (PTY) LTD\\Documents\\Training\\Sandbox\\react-tictac\\net-tictac\\net-tictac\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "net-tictac\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\LouwPretorius\\OneDrive - MONOCLE SOLUTIONS (PTY) LTD\\Documents\\Training\\Sandbox\\react-tictac\\net-tictac\\net-tictac\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "net-tictac\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:21:34.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LouwPretorius\\OneDrive - MONOCLE SOLUTIONS (PTY) LTD\\Documents\\Training\\Sandbox\\react-tictac\\net-tictac\\net-tictac\\Program.cs",
+              "RelativeDocumentMoniker": "net-tictac\\Program.cs",
+              "ToolTip": "C:\\Users\\LouwPretorius\\OneDrive - MONOCLE SOLUTIONS (PTY) LTD\\Documents\\Training\\Sandbox\\react-tictac\\net-tictac\\net-tictac\\Program.cs",
+              "RelativeToolTip": "net-tictac\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:01:08.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

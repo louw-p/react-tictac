@@ -1,0 +1,6 @@
+@net_tictac_HostAddress = http://localhost:5134
+
+GET {{net_tictac_HostAddress}}/api/
+Accept: application/json
+
+###
