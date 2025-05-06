@@ -12,6 +12,9 @@ export function Game() {
     winningLine,
     gameStatus,
     moveOrder,
+    players,
+    changePlayerXName,
+    changePlayerOName,
     handlePlay,
     jumpTo,
     toggleMoveOrder
@@ -45,10 +48,14 @@ export function Game() {
 
   return (
     <div>
-        <Players/>
+        <Players 
+        players={players}
+        changePlayerXName={changePlayerXName}
+        changePlayerOName={changePlayerOName}
+        />
         <div className="game">
             <div className="game-board">
-                <Board 
+                <Board
                 xIsNext={xIsNext} 
                 squares={currentSquares} 
                 onPlay={handlePlay}

@@ -4,9 +4,14 @@ import { useSaveGame } from './useSaveGame';
 export type SquareValue = "X" | "O" | null;
 
 export type Player = {
-  id: number;
+  id: number | null;
+  player: SquareValue;
   name: string;
-  score: number;
+}
+export type Players = {
+  playerX: Player;
+  playerO: Player;
+ 
 }
 
 const WINNING_LINES = [
@@ -34,7 +39,7 @@ export function useGameState() {
   const [history, setHistory] = useState<SquareValue[][]>([Array(9).fill(null)]);
   const [moveOrder, setMoveOrder] = useState<'ascending' | 'descending'>('ascending');
   const [currentMove, setCurrentMove] = useState(0);
-  const [players, setPlayers] = useState<Player[] | null>(null);
+  const [players, setPlayers] = useState<Players>({playerX: { name: 'Player X', player:'X', id:0},playerO: {name: 'Player O', player: 'O', id:0}});
   
   
   const xIsNext = currentMove % 2 === 0;
@@ -59,6 +64,32 @@ export function useGameState() {
     );
   }
 
+  function changePlayerOName(e) {
+    setPlayers({
+      ...players,
+      playerX: {
+        ...players.playerX
+      },
+      playerO: {
+        ...players.playerO,
+        name: e.target.value,
+      }
+    });
+  }
+
+  function changePlayerXName(e) {
+    setPlayers({
+      ...players,
+      playerX: {
+        ...players.playerX,
+        name: e.target.value,
+      },
+      playerO: {
+        ...players.playerO
+      }
+    });
+  }
+
   const gameStatus = winner 
     ? `Winner: ${winner}` 
     : isDraw 
@@ -70,7 +101,7 @@ export function useGameState() {
   useEffect(() => {
     console.log(isGameOver)
     if (isGameOver) {
-        useSaveGame(history);
+        useSaveGame(history, players);
       }
     }, [gameStatus]);
   return {
@@ -82,6 +113,10 @@ export function useGameState() {
     winningLine,
     gameStatus,
     moveOrder,
+    players,
+    changePlayerXName,
+    changePlayerOName,
+    setPlayers,
     handlePlay,
     jumpTo,
     toggleMoveOrder

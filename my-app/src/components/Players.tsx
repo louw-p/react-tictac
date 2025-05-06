@@ -1,32 +1,30 @@
 import React from 'react';
-import { SquareValue } from '../hooks/useGameState';
+import { useGameState } from '../hooks/useGameState';
+import type { Players } from '../hooks/useGameState';
 
-interface SquareProps {
-  value: SquareValue;
-  onSquareClick: () => void;
-  winningSquare?: boolean;
+interface PlayersProps {
+  players: Players;
+  changePlayerXName: (e: React.ChangeEvent<HTMLInputElement>) => void;
+  changePlayerOName: (e: React.ChangeEvent<HTMLInputElement>) => void;
 }
 
-export function Players() {
+export function Players({ players, changePlayerXName, changePlayerOName }: PlayersProps) {
   return (
     <> 
         <input 
-            type="text" 
+            type="text"
+            name="playerX"
+            value={players.playerX.name}
+            onChange={changePlayerXName}
             className="playerInput"
         />
         <input 
-            type="text" 
+            type="text"
+            name="playerO"
+            value={players.playerO.name}
+            onChange={changePlayerOName}
             className="playerInput"
         />
-        {/* <button 
-            className="square" 
-            onClick={onSquareClick}
-            style={{ backgroundColor: winningSquare ? 'green' : '' }}
-            aria-label={value ? `Square with ${value}` : 'Empty square'}
-            >
-            {value}
-        </button> */}
     </>
-
   );
 }
